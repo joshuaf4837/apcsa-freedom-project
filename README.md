@@ -2,7 +2,8 @@
 Joshua Fleary
 
 ## Context
-Text
+I enjoy playing video games. The idea of making one stands out to me a lot, I would like to be a creater and be able to make a smooth running game.
+The feedback that i recieve will always allow me and help me improve on my coding better and make whatever I desire the best as possible.
 
 ## Content
 Text
