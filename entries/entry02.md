@@ -19,7 +19,9 @@ The skills I obtained was being able to use some **C#.** It relates to **java** 
 
 ## Sources
 [Unity](https://unity.com/solutions/console-and-pc-games)
+
 [Learning C#](https://www.w3schools.com/cs/cs_intro.asp)
+
 [Unity templates](https://docs.unity3d.com/Manual/ProjectTemplates.html)
 
 [Previous](entry01.md) | [Next](entry03.md)
