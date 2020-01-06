@@ -10,7 +10,7 @@ In the Engineering Design Process I am at step 4 leaning towards step 5 . I am s
 
 ## Knowledge
 
-In class, I am constantly watching Unity tutorials and on w3schools.com practicing **C#**. I have learned the basics of **C#** over the past few weeks. Luckily, Java and **C#** are very similar. In class, We have been learning the Java language therefore the learning process for**C#** was easier than it would be if I never had knowledge on Java
+In class, I am constantly watching Unity tutorials and on [**w3schools**](https://www.w3schools.com/cs/ "w3schools")  practicing **C#**. I have learned the basics of **C#** over the past few weeks. Luckily, Java and **C#** are very similar. In class, We have been learning the Java language therefore the learning process for**C#** was easier than it would be if I never had knowledge on Java
 
 ## Skills
 
