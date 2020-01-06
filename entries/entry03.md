@@ -20,6 +20,7 @@ A skill I have obtained was **time management**. I was able to set up as schedul
 [Learning C#](https://www.w3schools.com/cs/cs_intro.asp)
 
 [Unity templates](https://docs.unity3d.com/Manual/ProjectTemplates.html)
+##
 
 
 [Previous](entry02.md) | [Next](entry04.md)
